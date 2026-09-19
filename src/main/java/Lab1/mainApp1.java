@@ -7,6 +7,8 @@ public class mainApp1 {
     public static void main(String[] args) {
         int b = 2;
         int n = 11;
+        System.out.println("Comp3111 Lab1 Report Heading");
+        System.out.println("Student Name:  WONG, Sheung Chak, Student ID: 21178604");
         System.out.println(b + " to power " + n + " = " + myLibrary.Power(b, n));
         System.out.println(n + "! = " + myLibrary.factorial(n));
         System.out.println("Program ..Ended …");
